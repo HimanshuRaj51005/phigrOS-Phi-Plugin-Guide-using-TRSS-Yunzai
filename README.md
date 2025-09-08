@@ -63,7 +63,7 @@ node -v # Should print "vx.x.x".
 ```
 ```
 # Download and install pnpm:
-corepack enable pnpm```
+corepack enable pnpm
 ```
 ```
 # Verify pnpm version:
