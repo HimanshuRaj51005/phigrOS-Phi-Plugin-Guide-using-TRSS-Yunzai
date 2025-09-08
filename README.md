@@ -29,7 +29,7 @@ A complete **English guide** for setting up the **Phi plugin** on **TRSS-Yunzai*
 + TapTap Global Account (for phigrOS binding)
 
 > [!CAUTION]
-> Any VM is recommended while using a 3rd paty code.
+> Any VM is recommended while using a 3rd party code.
 >
 > [Oracle *Virtual Box* Download Page](https://www.oracle.com/in/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 
