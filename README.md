@@ -43,3 +43,30 @@ A complete **English guide** for setting up the **Phi plugin** on **TRSS-Yunzai*
 > [!TIP]
 > Check this [YT video](https://youtu.be/CMGa6DsGIpc?si=7keT3v4uFfHHsHF1) if you need help
 
+## Step 2- Installing Core Tools 
+1. Install [Node + npm + pnpm](https://nodejs.org/en/download/current). LTS version is recommended.
+
+We will use Chocolatey for installing Node
+
+Open Power Shell and paste these commands one by one.
+```
+# Download and install Chocolatey:
+powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
+```
+```
+# Download and install Node.js:
+choco install nodejs --version="24.7.0"
+``` 
+```
+# Verify the Node.js version:
+node -v # Should print "vx.x.x".
+```
+```
+# Download and install pnpm:
+corepack enable pnpm```
+```
+```
+# Verify pnpm version:
+pnpm -v
+```
+2. Install [MSYS2](https://www.msys2.org/)
