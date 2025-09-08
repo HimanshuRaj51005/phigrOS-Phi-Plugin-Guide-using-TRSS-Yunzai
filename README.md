@@ -33,7 +33,7 @@ A complete **English guide** for setting up the **Phi plugin** on **TRSS-Yunzai*
 >
 > [Oracle *Virtual Box* Download Page](https://www.oracle.com/in/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 
-## *Step 1*---Installing Virtual Box and Windows Iso
+## *Step 1*— Installing Virtual Box and Windows Iso
 > If you’re running directly on Windows, skip this step.
 1. Download and install VirtualBox or VMware.
 2. Mount the Windows 10 ISO and install inside a VM.
